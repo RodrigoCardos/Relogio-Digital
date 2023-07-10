@@ -35,6 +35,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-<br>
-
 <p align="center">Feito por Rodrigo Cardoso :wave:</p>
